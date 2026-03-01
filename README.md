@@ -1,13 +1,12 @@
 # Responsible Assignment #01
 
-This repository contains the work submitted by **Abdullah Kaif (22I‑2142)** for a responsible AI assignment. The core deliverable is a Jupyter notebook demonstrating an end‑to‑end experiment in explainable machine learning, with a particular emphasis on comparing three feature‑attribution techniques.
+This repository contains the work submitted by **Abdullah Kaif ** for a responsible AI assignment. The core deliverable is a Jupyter notebook demonstrating an end‑to‑end experiment in explainable machine learning, with a particular emphasis on comparing three feature‑attribution techniques.
 
 ## 📂 Project Structure
 
-- **`22I-2142 Abdullah Kaif.ipynb`** – principal notebook covering data preprocessing, model training, and explanation routines.
+- **`Clinical_Explainable_AI`** – principal notebook covering data preprocessing, model training, and explanation routines.
 - **`stroke_triage.csv`** – dataset used for training and evaluation.
 - **`Best_Model.pth`** – serialized PyTorch model weights.
-- **`X_Explain.npy`, `Y_Explain.npy`** – sample inputs and labels used for generating explanations.
 - **`requirements.txt`** – Python dependencies required to run the notebook.
 
 ## 🧠 Attribution Methods Explored
@@ -32,7 +31,7 @@ Each method is applied to a set of test instances, with output printed and vario
 
 ## 👤 Author
 
-Abdullah Kaif – student at [Your Institution].
+Abdullah Kaif – student at FAST NUCES.
 
 ## 📝 License
 
