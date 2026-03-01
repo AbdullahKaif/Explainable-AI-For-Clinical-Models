@@ -1,4 +1,4 @@
-# Responsible Assignment #01
+# Explainable AI For Clinincal Model
 
 This repository contains the work submitted by **Abdullah Kaif** for a responsible AI assignment. The core deliverable is a Jupyter notebook demonstrating an end‑to‑end experiment in explainable machine learning, with a particular emphasis on comparing three feature‑attribution techniques.
 
